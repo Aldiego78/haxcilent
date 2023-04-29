@@ -11,8 +11,8 @@ import (
 )
 
 // Telegrambot配置//--------------------------------------------------------|
-var chatID = int64(1233213123) //chatid                                    |
-var bottoken = "<bottoken>"    //bottoken                                  |
+var chatID = (6296385930) //chatid                                    |
+var bottoken = "<6150156199:AAH9GkWKK2XfUsE_BzNpxxzSQJq5NlwySRM>"    //bottoken                                  |
 // 网站配置//                                                                |
 var host = "free.vps.vc"                  //网址host                        |
 var cookie = "khgq8chcblqer2h5ba7ug8jl6g" //PHPsessid(仅vps.vc)             |
